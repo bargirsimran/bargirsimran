@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A passionate and dedicated learner in the world of full stack Java development.
+A passionate and dedicated learner in the world of full stack Java development.<br>
 🔭 Currently, I'm diving deep into the intricacies of both front-end and back-end technologies to build robust, scalable, and user-friendly applications.
 🌱 I’m currently learning advanced Java programming and design patterns, Back-end development with Spring Boot and RESTful API design and Database management with SQL and ORM tools like Hibernate.
 👯 I love collaborating on open-source projects and learning from the developer community.
