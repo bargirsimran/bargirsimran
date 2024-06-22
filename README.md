@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A passionate and dedicated learner in the world of full stack Java development.
+🔭 Currently, I'm diving deep into the intricacies of both front-end and back-end technologies to build robust, scalable, and user-friendly applications.
+🌱 I’m currently learning advanced Java programming and design patterns, Back-end development with Spring Boot and RESTful API design and Database management with SQL and ORM tools like Hibernate.
+👯 I love collaborating on open-source projects and learning from the developer community.
+💬 Ask me about feel free to reach out if you have any project ideas, questions, or just want to chat about technology!
+📫 How to reach me: 
+    Email: bargirsimran07@gmail.com
+    LinkedIn: https://www.linkedin.com/in/simran-bargir-220797222/
