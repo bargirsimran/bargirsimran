@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👯 I love collaborating on open-source projects and learning from the developer community.
 - 💬 Ask me about feel free to reach out if you have any project ideas, questions, or just want to chat about technology!
 - 📫 How to reach me: 
-    Email: bargirsimran07@gmail.com
-    LinkedIn: https://www.linkedin.com/in/simran-bargir-220797222/
+    - Email: bargirsimran07@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/simran-bargir-220797222/
