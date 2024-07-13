@@ -29,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bargirsimran07&show_icons=true&locale=en&layout=compact" alt="bargirsimran07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bargirsimran07&show_icons=true&locale=en" alt="bargirsimran07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bargirsimran07&" alt="bargirsimran07" /></p>
+
